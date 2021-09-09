@@ -14,28 +14,28 @@ function draw()
   if(keyIsDown(RIGHT_ARROW))
   {
     background("red");
-    box.shapeColor = "red";
+    
   }
   
 
   if (keyIsDown(LEFT_ARROW)) 
   {
     background("blue");
-    box.shapeColor = "blue";
+    
     
   }
  
     if (keyIsDown(UP_ARROW)) 
   {
     background("yellow");
-    box.shapeColor = "yellow";
+    
    
   }
 
   if (keyIsDown(DOWN_ARROW)) 
   {
     background("green");
-    box.shapeColor = "green";
+    
   }
 
 
